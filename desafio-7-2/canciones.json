@@ -1,0 +1,5 @@
+[
+  { "id": "1", "cancion": "Cancion 1", "artista": "Artista 1", "tono": "fm" },
+  { "id": "2", "cancion": "Cancion 2", "artista": "Artista 2", "tono": "fm" },
+  { "id": "3", "cancion": "Cancion 3", "artista": "Artista 3", "tono": "fm" }
+]
